@@ -1,0 +1,35 @@
+{
+  "guildInfo": {
+    "discordToken": "",
+    "guildID": "623324522220617771",
+    "scrimDashBoardMessageId": "693760404844838945",
+    "scrimSize": 10,
+    "adminRole": "680873079224008724",
+    "scrimAdminRole": "693820568558108743",
+    "scrimLogChannel": "693722276872585256"
+  },
+  "scrimMessageIDs": {
+    "eastScrimMessageId": "693893560340054066",
+    "westScrimMessageId": "693893359420440647",
+    "euScrimMessageId": "693802911704154152",
+    "saScrimMessageId": "693802917467258948",
+    "oceScrimMessageId": "693802919245512715",
+    "spScrimMessageId": "693802922332520468"
+  },
+  "scrimChannels": {
+    "scrimEastChannel": "693722162497978410",
+    "scrimWestChannel": "693722162497978410",
+    "scrimEuChannel": "693722162497978410",
+    "scrimSaChannel": "693722162497978410",
+    "scrimOceChannel": "693722162497978410",
+    "scrimSpChannel": "693722162497978410"
+  },
+  "scrimActive": {
+    "eastScrimActive": "693805298128912465",
+    "westScrimActive": "693887360844300460",
+    "euScrimActive": "693805298128912465",
+    "saScrimActive": "693805298128912465",
+    "oceScrimActive": "693805298128912465",
+    "spScrimActive": "693805298128912465"
+  }
+}
